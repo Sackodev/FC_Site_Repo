@@ -19,17 +19,17 @@
 #
 # Put your information below, without the '#'!
 
-10/02/2020: pdf_ex_1.pdf
+10/02/2020: dummy-1.pdf
 Name: United States Favorite Pizza Topping Study
 gswdgasgasdgd
 
 
-09/05/2020: pdf_ex_2.pdf
+09/05/2020: dummy-2.pdf
 Name: Mexican Best Taco Ingredients Research
 Very cool stuff lorem ipsum whatever
 
 
-03/27/1992: pdf_ex_3.pdf
+03/27/1992: dummy-3.pdf
 Name: Loerm Poopum
 IPSUM POOPUM
 

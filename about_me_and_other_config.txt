@@ -19,4 +19,4 @@ wocuangle@gmail.com
 
 # photo should be stored in the 'photos' folder
 Photo File Name:
-gafdgag.png
+person-clipart-dc85kMGMi.svg
