@@ -1,0 +1,36 @@
+# Format to follow:
+#
+# MM/DD/YYYY: file_name.pdf
+# Name: Title of Project
+# Description Paragraph (can be multiple lines)
+#
+# Description Paragraph 2 (separate with a line!)
+#
+# Example:
+# 08/23/1992: awesome_research_paper.pdf
+# Name: Awesome Research Project
+# This is my awesome research project that I did, and this is the first paragraph for the description!
+#
+# This is the 2nd paragraph of the description! Very cool.
+#
+#
+#
+# The date determines the order the website will display it in, not the order they are in below.
+#
+# Put your information below, without the '#'!
+
+10/02/2020: pdf_ex_1.pdf
+Name: United States Favorite Pizza Topping Study
+gswdgasgasdgd
+
+
+09/05/2020: pdf_ex_2.pdf
+Name: Mexican Best Taco Ingredients Research
+Very cool stuff lorem ipsum whatever
+
+
+03/27/1992: pdf_ex_3.pdf
+Name: Loerm Poopum
+IPSUM POOPUM
+
+

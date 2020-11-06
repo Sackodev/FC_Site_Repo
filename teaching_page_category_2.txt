@@ -1,0 +1,26 @@
+# Instructions for Category Two:
+# 
+# Heading is the section name; ex. Teaching Assistant
+# 
+# Class is the class's full name; ex. Microeconomics (it will be in bold)
+# Subtext is for any text you may want on the side of the class name; ex. ECON 201 with Jimmy Madison (Fall 2019)
+#
+# Full Example:
+# 
+# Category 2: Teaching Assistant <-- Always on top, only type it in once!
+#
+# Class: Basic Economics
+# Subtext: ECON 101 with John Travolta (Spring 2020)
+#
+# 
+# MAKE YOUR CHANGES BELOW, WITHOUT #s!
+
+
+Category 2: Teaching Assistant
+
+
+Class: Accounting Basics
+Subtext: ECON 202 with John Travolta (Fall 2961)
+
+Class: US Economics
+Subtext: ECON 204 with Jimmy Neutron (Winter 1984)

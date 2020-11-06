@@ -1,0 +1,22 @@
+About Me Text:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a dui tortor. Etiam accumsan, sapien at convallis interdum, velit arcu dignissim mi, eget mollis elit nisi non dolor. Nullam dictum diam in varius luctus. Vestibulum et turpis eu erat pretium finibus sollicitudin vitae ex. Donec finibus, nulla et gravida condimentum, massa odio vestibulum mi, eu tristique enim justo quis leo. Ut eleifend felis non tellus consectetur mattis. Donec mauris orci, accumsan a commodo id, semper gravida ipsum. Nunc egestas neque sit amet risus lobortis, non viverra risus commodo. Vivamus eget nibh odio.
+
+Duis id mauris tristique dui tincidunt congue. Donec sapien tellus, faucibus eu elementum eu, eleifend nec odio. Sed id tristique dolor. Cras vitae felis diam. Fusce id tortor sed turpis sollicitudin vulputate pulvinar nec arcu.
+
+About Me List Name:
+Some random facts
+
+About Me List Items:
+Pizza is my favorite food.
+I am awesome.
+I am cooler than you.
+
+LinkedIn Profile Link:
+https://google.com
+
+Email:
+wocuangle@gmail.com
+
+# photo should be stored in the 'photos' folder
+Photo File Name:
+gafdgag.png

@@ -1,0 +1,31 @@
+# Instructions for Category One:
+# 
+# Heading is the section name; ex. Sole Instructor
+# 
+# Class is the class's full name; ex. Microeconomics (it will be in bold)
+# Subtext is for any text you may want on the side of the class name; ex. ECON 201 Online
+# In Class Time, you list every season and year you worked for that class with commas
+# Ex. Summer 2020, Fall 2020
+#
+# Full Example:
+# 
+# Category 1: Sole Instructor  <-- Always on top, only type it in once!
+#
+# Class: Microeconomics
+# Subtext: ECON 201 Online
+# Class Time: Summer 2020, Fall 2020
+# 
+# 
+# MAKE YOUR CHANGES BELOW, WITHOUT #s!
+
+
+Category 1: Sole Instructor
+
+
+Class: Microeconomics
+Subtext: ECON 101
+Class Time: Summer 2021
+
+Class: Basics of Economics
+Subtext: ECON 202
+Class Time: Spring 2017, Spring 2018
