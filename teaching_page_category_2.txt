@@ -19,8 +19,8 @@
 Category 2: Teaching Assistant
 
 
-Class: Accounting Basics
-Subtext: ECON 202 with John Travolta (Fall 2961)
+Class: Economics of Health 
+Subtext: ECON 3330 with Luba Keltser (Fall 2017, Spring 2018, Fall 2018, Spring 2019, Fall 2019, Spring 2020)
 
-Class: US Economics
-Subtext: ECON 204 with Jimmy Neutron (Winter 1984)
+Class: Principles of Macroeconomics
+Subtext: ECON 2301 with Victor Valcarcel (Spring 2020)
