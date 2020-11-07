@@ -20,4 +20,4 @@ placeholder_email@gmail.com
 
 # photo should be stored in the 'photos' folder
 Photo File Name:
-Pic2.png
+Pic2.jpg
