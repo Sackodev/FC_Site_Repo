@@ -1,7 +1,3 @@
 # PDFTestRepo
 
-Test!
-Test 2!
-TEST THREE
-FOUR
-five...
+Repo to manage Fernando's website
