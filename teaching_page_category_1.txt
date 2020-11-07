@@ -30,7 +30,6 @@ Class: Mathematics for Economists (Universidad Autónoma de Nuevo León)
 Subtext: Calculus 2
 Class Time: Summer 2019, Summer 2017
 
-Class: Principles of Macroeconomics
-Subtext: 
+Class: Principles of Macroeconomics (Universidad Autónoma de Nuevo León) 
 Class Time: Summer 2018
 
