@@ -17,7 +17,7 @@ LinkedIn Profile Link:
 https://google.com
 
 Email:
-placeholder_email_yup@gmail.com
+placeholder_email@gmail.com
 
 # photo should be stored in the 'photos' folder
 Photo File Name:
