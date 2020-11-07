@@ -20,8 +20,9 @@
 # Put your information below, without the '#'!
 
 10/02/2020: dummy.pdf
-Name: United States Favorite Pizza Topping Study
-gswdgasgasdgd
+Name: Patterns of TFP growth in Mexico: 1991–2011 
+Coauthored paper with Dr. Leonardo Torre
+Published at North American Journal of Economics and Finance
 
 
 09/05/2020: dummy-2.pdf
