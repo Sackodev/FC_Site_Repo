@@ -19,7 +19,7 @@
 #
 # Put your information below, without the '#'!
 
-10/02/2020: dummy-1.pdf
+10/02/2020: dummy.pdf
 Name: United States Favorite Pizza Topping Study
 gswdgasgasdgd
 
