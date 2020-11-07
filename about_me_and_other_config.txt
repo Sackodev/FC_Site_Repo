@@ -20,4 +20,4 @@ placeholder_email@gmail.com
 
 # photo should be stored in the 'photos' folder
 Photo File Name:
-person-clipart-dc85kMGMi.svg
+pic2.jpg
