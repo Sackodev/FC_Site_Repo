@@ -19,7 +19,7 @@
 #
 # Put your information below, without the '#'!
 
-21/09/2015: dummy.pdf
+21/09/2015: Patterns of TFP growth in Mexico.pdf
 Name: Patterns of TFP growth in Mexico: 1991–2011 
 Coauthored paper with Dr. Leonardo Torre published at North American Journal of Economics and Finance.
 
