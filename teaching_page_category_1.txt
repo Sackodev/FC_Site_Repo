@@ -29,3 +29,11 @@ Class Time: Summer 2021
 Class: Basics of Economics
 Subtext: ECON 202
 Class Time: Spring 2017, Spring 2018
+
+Class: Microeconomics
+Subtext: ECON 101
+Class Time: Summer 2021
+
+Class: Basics of Economics
+Subtext: ECON 202
+Class Time: Spring 2017, Spring 2018
