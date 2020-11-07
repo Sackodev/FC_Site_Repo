@@ -22,18 +22,15 @@
 Category 1: Sole Instructor
 
 
-Class: Microeconomics
-Subtext: ECON 101
-Class Time: Summer 2021
+Class: Intermediate Macroeconomic Theory (University of Texas at Dallas)
+Subtext: ECON 3311
+Class Time: Fall 2020
 
-Class: Basics of Economics
-Subtext: ECON 202
-Class Time: Spring 2017, Spring 2018
+Class: Mathematics for Economists (Universidad Autónoma de Nuevo León) 
+Subtext: Calculus 2
+Class Time: Summer 2019, Summer 2017
 
-Class: Microeconomics
-Subtext: ECON 101
-Class Time: Summer 2021
+Class: Principles of Macroeconomics
+Subtext: 
+Class Time: Summer 2018
 
-Class: Basics of Economics
-Subtext: ECON 202
-Class Time: Spring 2017, Spring 2018
