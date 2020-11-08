@@ -1,2 +1,3 @@
 # Put the file name of the resume to use below, without the hashtag
+# The resume should be stored in the 'resume' folder!
 CV.pdf
