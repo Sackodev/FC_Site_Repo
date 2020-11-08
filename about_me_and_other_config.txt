@@ -1,14 +1,13 @@
 About Me Text::
 
-I am a fifth year PhD student in Economics at the University of Texas at Dallas. I currently teach Intermediate Macroeconomic Theory, which is something I really enjoy. In the past I have also had the opportunity to teach Principles of Macroeconomics and Mathematics for Economists at the Universidad Autónoma de Nuevo León in my hometown in Mexico.
+I am a fifth year PhD student in Economics at the University of Texas at Dallas. I am currently teaching Intermediate Macroeconomic Theory, which is something that I really enjoy. In the past I have also had the opportunity to teach Principles of Macroeconomics and Mathematics for Economists at the Universidad Autónoma de Nuevo León in my hometown in Mexico.
 
 I really enjoy the analysis and research on Monetary Policy in Mexico using Time Series models.
 
-Personally, I really enjoy running, climbing mountains, making new friends, and eating some delicious tacos from my hometown, Monterrey, N.L. in Mexico.
+Personally, I really enjoy running, climbing, making new friends, going to the church and eating some delicious tacos from my hometown, Monterrey, N.L. in Mexico.
 
 
 About Me List Name::
-Some random facts
 
 About Me List Items::
 PhD in Economics student at The University of Texas at Dallas.
