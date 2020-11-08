@@ -1,2 +1,2 @@
 # Put the file name of the resume to use below, without the hashtag
-CV(FerandoColunga).pdf
+CV(FernandoColunga).pdf
