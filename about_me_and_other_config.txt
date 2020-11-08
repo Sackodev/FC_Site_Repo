@@ -20,4 +20,4 @@ lfc160030@utdallas.edu
 
 # photo should be stored in the 'photos' folder
 Photo File Name:
-aPic2.png
+Pic2.png
