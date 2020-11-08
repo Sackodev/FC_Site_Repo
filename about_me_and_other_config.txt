@@ -13,10 +13,10 @@ I am cooler than you.
 Testing!
 
 LinkedIn Profile Link:
-https://google.com
+http://linkedin.com/in/luis-fernando-colunga-ramos-aa87402b
 
 Email:
-placeholder_email@gmail.com
+lfc160030@utdallas.edu
 
 # photo should be stored in the 'photos' folder
 Photo File Name:
