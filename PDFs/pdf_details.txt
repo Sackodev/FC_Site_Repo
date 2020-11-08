@@ -20,7 +20,7 @@
 # Put your information below, without the '#'!
 
 02/10/2020: Patterns of TFP growth in Mexico.pdf
-Name: Patterns of TFP growth in Mexico: 1991–2011 
+Name: Patterns of TFP growth in Mexico - 1991–2011 
 Coauthored paper with Dr. Leonardo Torre published at North American Journal of Economics and Finance.
 
 09/05/2020: dummy-2.pdf
