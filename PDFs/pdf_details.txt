@@ -23,14 +23,11 @@
 Name: Patterns of TFP growth in Mexico: 1991–2011 
 Coauthored paper with Dr. Leonardo Torre published at North American Journal of Economics and Finance.
 
-
 09/05/2020: dummy-2.pdf
-Name: Mexican Best Taco Ingredients Research
-Very cool stuff lorem ipsum whatever
-
+Name: A Divisia Measure of the Money Supply in México 
 
 03/27/1992: dummy-3.pdf
-Name: Loerm Poopum
-IPSUM POOPUM
+Name: The Loan Puzzle in México 
+
 
 
