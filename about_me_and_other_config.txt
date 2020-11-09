@@ -17,7 +17,7 @@ LinkedIn Profile Link::
 http://linkedin.com/in/luis-fernando-colunga-ramos-aa87402b
 
 Facebook Profile Link::
-https://facebook.com
+https://www.facebook.com/ifernando13/
 
 Email::
 lfc160030@utdallas.edu
