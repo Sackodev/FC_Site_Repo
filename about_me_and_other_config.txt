@@ -27,4 +27,4 @@ lfc160030@utdallas.edu
 
 # photo should be stored in the 'photos' folder
 Photo File Name::
-Foto4a.jpg
+photos/Foto4a.jpg
