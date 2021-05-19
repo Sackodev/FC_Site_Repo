@@ -30,7 +30,7 @@ Class: Intermediate Macroeconomic Theory (University of Texas at Dallas)
 Subtext: ECON 3311
 Class Time: Fall 2020
 
-Class: Calculus 2 (Universidad Autónoma de Nuevo León) 
+Class: Differential Calculus (Universidad Autónoma de Nuevo León) 
 Subtext: Calculus 2
 Class Time: Summer 2019, Summer 2017
 
