@@ -24,6 +24,10 @@ Category 1: Sole Instructor
 
 Class: Intermediate Macroeconomic Theory (University of Texas at Dallas)
 Subtext: ECON 3311
+Class Time: Spring 2021
+
+Class: Intermediate Macroeconomic Theory (University of Texas at Dallas)
+Subtext: ECON 3311
 Class Time: Fall 2020
 
 Class: Mathematics for Economists (Universidad Autónoma de Nuevo León) 
