@@ -25,7 +25,7 @@ Facebook Profile Link::
 https://www.facebook.com/ifernando13/
 
 Email::
-lfc160030@utdallas.edu
+fernandocolwnga@hotmail.com
 
 # photo should be stored in the 'photos' folder
 Photo File Name::
