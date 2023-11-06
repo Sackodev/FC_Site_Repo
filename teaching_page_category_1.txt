@@ -21,6 +21,9 @@
 
 Category 1: Sole Instructor
 
+Class: Intermediate Macroeconomic Theory (Universidad Autónoma de Nuevo León)
+Subtext: Macro 2
+Class Time: Fall 2023
 
 Class: Intermediate Macroeconomic Theory (University of Texas at Dallas)
 Subtext: ECON 3311
