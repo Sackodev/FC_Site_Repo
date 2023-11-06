@@ -19,13 +19,17 @@
 #
 # Put your information below, without the '#'!
 
-09/15/2015: Patterns of TFP growth in Mexico.pdf
-Name: Patterns of TFP growth in México - 1991–2011 
-Coauthored paper with Dr. Leonardo Torre published at North American Journal of Economics and Finance.
+11/01/2023: 
+Name: Regional Supply, Demand and Labor Shocks on the Manufacturing Sector during COVID-19 in Mexico.
+Coauthored paper with Dr. Leonardo Torre. Latin American Journal of Central Banking (forthcoming).
 
 09/15/2020: Divisia_05092020.pdf
 Name: A Divisia Measure of the Money Supply in México 
-Coauthored paper with Dr. Victor Valcarcel.
+Coauthored paper with Dr. Victor Valcarcel. Journal of Money, Credit and Banking (forthcoming).
+
+09/15/2015: 
+Name: Patterns of TFP growth in México - 1991–2011 
+Coauthored paper with Dr. Leonardo Torre published at North American Journal of Economics and Finance.
 
 10/15/2020: JMP_The Loan Puzzle in Mexico.pdf
 Name: The Loan Puzzle in México
